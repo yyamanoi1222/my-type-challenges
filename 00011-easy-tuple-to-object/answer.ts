@@ -1,4 +1,5 @@
-bject
+/*
+object
   -------
   by sinoon (@sinoon) #easy 
   

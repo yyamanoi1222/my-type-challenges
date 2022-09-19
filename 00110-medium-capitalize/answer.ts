@@ -19,7 +19,7 @@
 
 /* _____________ Your Code Here _____________ */
 
-type MyCapitalize<S extends string> = S extends `${infer P}${infer B}` ? `${Capitalize<P>}${B}` : S
+type MyCapitalize<S extends string> = S extends `${infer P}${infer B}` ? `${Uppercase<P>}${B}` : S
 
 
 /* _____________ Test Cases _____________ */
