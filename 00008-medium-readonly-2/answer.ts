@@ -1,3 +1,4 @@
+/* 
 eadonly 2
   -------
   by Anthony Fu (@antfu) #medium #readonly #object-keys
